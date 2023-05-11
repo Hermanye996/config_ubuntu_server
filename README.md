@@ -2,7 +2,7 @@
 &nbsp;
 ![One Step Configuration](https://img.shields.io/badge/One%20Step%20Configuration-pink)
 &nbsp;
-[![Ubuntu VERSION](https://img.shields.io/badge/Ubuntu%20Server-22.04%20Rpi-green)](https://ubuntu.com/)
+[![Ubuntu VERSION](https://img.shields.io/badge/Ubuntu%20Server-22.04%20RPi-green)](https://ubuntu.com/)
 &nbsp;
 [![LICENSE](https://img.shields.io/badge/license-Apache--2.0-informational)](https://Hermanye996/config_ubuntu_server/blob/main/LICENSE)
 &nbsp;
