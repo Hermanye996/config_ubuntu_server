@@ -28,6 +28,7 @@ To initiate the configuration process, run the `start_configuration.py` script w
 # On your PC
 sudo python3 start_configuration.py
 ```
+You can download ubuntu 22.04 server for Raspberry Pi from [Ubuntu](https://ubuntu.com/download/raspberry-pi)
 
 ### 2. Create SSH Configuration
 After the cloud-init process has finished, you can run the `create_ssh.py` script. This script will assist you in configuring SSH access by obtaining the IP address of the server, generating an SSH configuration, and writing it to the SSH configuration file.
