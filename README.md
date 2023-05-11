@@ -10,6 +10,9 @@
 # Config Ubuntu Server
 The config_ubuntu_server script allows for quick and easy configuration of an Ubuntu server on your Raspberry Pi system. It includes root privilege settings and SSH configuration without needing to manually fetch the IP.
 
+
+Take the hassle out of configuring an Ubuntu server on your Raspberry Pi system with the "config_ubuntu_server" project. This handy tool simplifies the process with one-step configuration, including root privilege settings and SSH configuration without the need for manual IP fetching. It's ideal for both beginners and advanced users seeking a seamless setup experience. Plus, enjoy the added convenience of running SSH commands in one line and password-less access with Visual Studio Code's remote-SSH feature. Let "config_ubuntu_server" handle the configuration while you focus on your next big project!
+
 ## Installation
 To install, clone the repository directly from GitHub by running the following command:
 ```bash
